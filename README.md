@@ -20,6 +20,11 @@ I translate emerging technologies into enterprise-ready products, lead multidisc
 - Delivered a maritime edge computing platform deployed across approximately **600 devices** internationally.
 - Drove AI-assisted data-quality automation, increasing rule coverage from approximately **40% to over 70% in four weeks**.
 
+### Selected product experience
+
+- 🌊 **[Maritime Operational Intelligence](https://fredp-21.github.io/fredericpotet/maritime-operational-intelligence.html)** — Environmental compliance at sea and predictive maritime safety with edge AI.
+- 📈 **[Product Leadership — Evidence & Impact](https://fredp-21.github.io/fredericpotet/product-leadership-evidence.html)** — Six practical examples spanning product scale, experimentation, data quality, ML platforms and agentic automation.
+
 ### Areas of interest
 
 Industrial AI · Intelligent connected systems · Edge AI · Robotics · Quantum-inspired optimisation
