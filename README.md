@@ -23,7 +23,11 @@ I translate emerging technologies into enterprise-ready products, lead multidisc
 ### Selected product experience
 
 - 🌊 **[Maritime Operational Intelligence](https://fredp-21.github.io/fredericpotet/maritime-operational-intelligence.html)** — Environmental compliance at sea and predictive maritime safety with edge AI.
-- 📈 **[Product Leadership — Evidence & Impact](https://fredp-21.github.io/fredericpotet/product-leadership-evidence.html)** — Six practical examples spanning product scale, experimentation, data quality, ML platforms and agentic automation.
+- 📈 **[Product Leadership — Evidence & Impact](https://fredp-21.github.io/fredericpotet/product-leadership-evidence.html)** — Seven practical examples spanning product scale, experimentation, data quality, ML platforms and agentic automation.
+
+### Research-to-product ecosystem leadership
+
+At Vix Technology, created professional-services and **AI/ML Labs** activities engaging universities across the US, Canada, UK and Europe alongside leading data-service providers, complementing Data & AI product strategy and commercial propositions. [Read the case study](https://fredp-21.github.io/fredericpotet/research-to-product-partnerships.html).
 
 ### Areas of interest
 
