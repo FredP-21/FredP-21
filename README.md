@@ -1,4 +1,4 @@
-# Frédéric Potet
+# Frederic Potet
 
 ### Senior Product Leader | Enterprise AI & Data Platforms | Cloud & Edge Computing
 
